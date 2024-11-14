@@ -1,8 +1,6 @@
-Here's the updated README file with the `.v` files included in the **File Structure** section:
-
----
 
 # Synchronous and Asynchronous FIFO Design in Verilog HDL
+
 
 ## Project Overview
 
